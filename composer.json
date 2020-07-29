@@ -1,0 +1,8 @@
+{
+    "require": {
+        "symfony/console": "^5.1"
+    },
+    "autoload": {
+     	 "psr-4": {"Cstring\\": "cmd/"}
+    }
+}
